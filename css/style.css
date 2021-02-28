@@ -1,0 +1,29 @@
+<style>
+body{ background-color:#F4EEED;
+}
+h1{ color:#00416d;
+}
+h1{
+  position: relative;
+  left: -200px;
+}
+h3{color:#00416d;
+}
+img{
+border-radius: 40%;
+width: 45%;
+High: 50px;
+}
+p {
+  position: relative;
+  left: -200px;
+}
+hr{
+  height:50px;
+  width: 10%;
+border-style: none;
+border-top-style: dotted;
+border-color: grey;
+border-width: 5px;
+}
+</style>
